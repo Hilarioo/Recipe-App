@@ -6,30 +6,25 @@ Student ID # 918599427
 ## Proposal
 **App Name:** 	Recipe App
 **Purpose:** 	Allows a user to browse an open source API for recipes. If a user creates an 
-account, they will be able to save favorite recipes obtained from the API or add their own. The app will allow users to create “folders” to better organize their recipe(s).
+account, they will be able to browse recipes and save favorite recipes.
 
 
 ### Must Have Features
 User auth (Create Account)
-Add personal recipe
+User auth (Login)
 Browse recipes from open source recipe API 
-Create folder(s) to organize recipes
-Add recipe(s) to folder
 
 
 ### Nice To Have Features
-User auth (delete account, change password)
-Delete personal recipe
-Delete recipe(s) from folder
-Delete folder
-Share recipe 
+Search Specific Cuisine(s) / Search API
+Add Personal Recipe
+Favorite Recipes
 
 ### Wireframes
 Auth → Sign In, Create Account
 Home
 Browse
 Folders / Favs
-Account
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/40965405/140463250-127aa351-b343-4b32-b92a-d689592a6e23.jpg" alt="drawing" width="200"/>
