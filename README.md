@@ -9,10 +9,15 @@ Student ID # 918599427
 account, they will be able to browse recipes and save favorite recipes.
 
 
+####Test Login functionality
+Email: test@gmail.com
+Password: 123123
+
+
 ### Must Have Features
-User auth (Create Account)
-User auth (Login)
-Browse recipes from open source recipe API 
+User auth (Create Account using Firebase)
+User auth (Login using Firebase)
+Browse recipes from open source recipe Spoonacular API 
 
 
 ### Nice To Have Features
