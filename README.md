@@ -1,12 +1,8 @@
-# Recipe-App
+# IOS Recipe App
 
-Jose H. Gonzalez-Martinez
-Student ID # 918599427
-
-## Proposal
-**App Name:** 	Recipe App
-**Purpose:** 	Allows a user to browse an open source API for recipes. If a user creates an 
-account, they will be able to browse recipes and save favorite recipes.
+## Summaary
+Allows a user to browse an open source API for recipes. If a user creates an 
+account, they will be able to browse recipes and save their favorite recipe(s).
 
 
 ####Test Login functionality
@@ -14,22 +10,7 @@ Email: test@gmail.com
 Password: 123123
 
 
-### Must Have Features
-User auth (Create Account using Firebase)
-User auth (Login using Firebase)
-Browse recipes from open source recipe Spoonacular API 
 
-
-### Nice To Have Features
-Search Specific Cuisine(s) / Search API
-Add Personal Recipe
-Favorite Recipes
-
-### Wireframes
-Auth → Sign In, Create Account
-Home
-Browse
-Folders / Favs
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/40965405/140463250-127aa351-b343-4b32-b92a-d689592a6e23.jpg" alt="drawing" width="200"/>
