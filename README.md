@@ -1,23 +1,24 @@
+<div style="margin: 0 auto">
+  <img src="https://github.com/Hilarioo/Recipe-App/blob/main/CookRecipe/Assets.xcassets/logo.imageset/logo%401x.png" alt="logo" width="200"/>
+ </div>
+
 # IOS Recipe App
 
-## Summaary
-Allows a user to browse an open source API for recipes. If a user creates an 
-account, they will be able to browse recipes and save their favorite recipe(s).
+My Recipe App was a solo project created using Firebase Auth, Swift, Xcode, and SpoonacularAPI. Through the app, you will be able to create an account (login | logout), search recipes by category, and select a random recipe to cook. 
+
+
+### Screenshots
+
+<div style="margin: 0 auto">
+<img src="https://github.com/Hilarioo/Recipe-App/blob/main/Screenshots/Final-Screenshots/Screen%20Shot%202021-12-16%20at%206.32.52%20PM.png" alt="signup" width="150"/>
+<img src="https://github.com/Hilarioo/Recipe-App/blob/main/Screenshots/Final-Screenshots/Screen%20Shot%202021-12-16%20at%206.32.46%20PM.png" alt="signin" width="150"/>
+<img src="https://github.com/Hilarioo/Recipe-App/blob/main/Screenshots/Final-Screenshots/Screen%20Shot%202021-12-16%20at%206.32.30%20PM.png" alt="homepage" width="150"/>
+<img src="https://github.com/Hilarioo/Recipe-App/blob/main/Screenshots/Final-Screenshots/Screen%20Shot%202021-12-16%20at%206.33.14%20PM.png" alt="recipe01" width="150"/>
+<img src="https://github.com/Hilarioo/Recipe-App/blob/main/Screenshots/Final-Screenshots/Screen%20Shot%202021-12-16%20at%206.33.36%20PM.png" alt="recipe02" width="150"/>
+</div>
 
 
 ####Test Login functionality
 Email: test@gmail.com
 Password: 123123
-
-
-
-
-<p float="left">
-<img src="https://user-images.githubusercontent.com/40965405/140463250-127aa351-b343-4b32-b92a-d689592a6e23.jpg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/40965405/140463255-bcc775f5-1a08-42d5-9c50-e1b8473f7bcf.jpg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/40965405/140463258-c291fb10-3521-4467-9599-3e5743c4d3e2.jpg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/40965405/140463260-ef32f167-1e55-4e10-8f5d-4a53a216c45e.jpg" alt="drawing" width="200"/>
-<img src="https://user-images.githubusercontent.com/40965405/140463262-5aedcb4a-ac26-4bd2-beab-0899b3812f9f.jpg" alt="drawing" width="200"/>
-</p>
-
 
