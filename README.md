@@ -1,4 +1,4 @@
-<div style="margin: 0 auto">
+<div style="margin: auto 0">
   <img src="https://github.com/Hilarioo/Recipe-App/blob/main/CookRecipe/Assets.xcassets/logo.imageset/logo%401x.png" alt="logo" width="200"/>
  </div>
 
@@ -19,6 +19,8 @@ My Recipe App was a solo project created using Firebase Auth, Swift, Xcode, and 
 
 
 ####Test Login functionality
+
 Email: test@gmail.com
+
 Password: 123123
 
